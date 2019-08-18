@@ -1,0 +1,1027 @@
+﻿Vessel Group (2018),Vessel Type (2018),AIS Vessel Code,AIS Ship & Cargo Classification
+Not Available,0,0,"Not available or no ship, default"
+Other,1,1,Reserved for future use
+Other,2,2,Reserved for future use
+Other,3,3,Reserved for future use
+Other,4,4,Reserved for future use
+Other,5,5,Reserved for future use
+Other,6,6,Reserved for future use
+Other,7,7,Reserved for future use
+Other,8,8,Reserved for future use
+Other,9,9,Reserved for future use
+Other,10,10,Reserved for future use
+Other,11,11,Reserved for future use
+Other,12,12,Reserved for future use
+Other,13,13,Reserved for future use
+Other,14,14,Reserved for future use
+Other,15,15,Reserved for future use
+Other,16,16,Reserved for future use
+Other,17,17,Reserved for future use
+Other,18,18,Reserved for future use
+Other,19,19,Reserved for future use
+Other,20,20,"Wing in ground (WIG), all ships of this type"
+Tug Tow,21,21,"Wing in ground (WIG), hazardous category A"
+Tug Tow,22,22,"Wing in ground (WIG), hazardous category B"
+Other,23,23,"Wing in ground (WIG), hazardous category C"
+Other,24,24,"Wing in ground (WIG), hazardous category D"
+Other,25,25,"Wing in ground (WIG), reserved for future use"
+Other,26,26,"Wing in ground (WIG), reserved for future use"
+Other,27,27,"Wing in ground (WIG), reserved for future use"
+Other,28,28,"Wing in ground (WIG), reserved for future use"
+Other,29,29,"Wing in ground (WIG), reserved for future use"
+Fishing,30,30,Fishing
+Tug Tow,31,31,Towing
+Tug Tow,32,32,Towing: length exceeds 200m or breadth exceeds 25m
+Other,33,33,Dredging or underwater operations
+Other,34,34,Diving operations
+Military,35,35,Military operations
+Pleasure Craft/Sailing,36,36,Sailing
+Pleasure Craft/Sailing,37,37,Pleasure Craft
+Other,38,38,Reserved
+Other,39,39,Reserved
+Other,40,40,"High speed craft (HSC), all ships of this type"
+Other,41,41,"High speed craft (HSC), hazardous category A"
+Other,42,42,"High speed craft (HSC), hazardous category B"
+Other,43,43,"High speed craft (HSC), hazardous category C"
+Other,44,44,"High speed craft (HSC), hazardous category D"
+Other,45,45,"High speed craft (HSC), reserved for future use"
+Other,46,46,"High speed craft (HSC), reserved for future use"
+Other,47,47,"High speed craft (HSC), reserved for future use"
+Other,48,48,"High speed craft (HSC), reserved for future use"
+Other,49,49,"High speed craft (HSC), no additional information"
+Other,50,50,Pilot Vessel
+Other,51,51,Search and Rescue vessel
+Tug Tow,52,52,Tug
+Other,53,53,Port Tender
+Other,54,54,Anti-pollution equipment
+Other,55,55,Law Enforcement
+Other,56,56,Spare - for assignment to local vessel
+Other,57,57,Spare - for assignment to local vessel
+Other,58,58,Medical Transport
+Other,59,59,Ship according to RR Resolution No. 18
+Passenger,60,60,"Passenger, all ships of this type"
+Passenger,61,61,"Passenger, hazardous category A"
+Passenger,62,62,"Passenger, hazardous category B"
+Passenger,63,63,"Passenger, hazardous category C"
+Passenger,64,64,"Passenger, hazardous category D"
+Passenger,65,65,"Passenger, reserved for future use"
+Passenger,66,66,"Passenger, reserved for future use"
+Passenger,67,67,"Passenger, reserved for future use"
+Passenger,68,68,"Passenger, reserved for future use"
+Passenger,69,69,"Passenger, no additional information"
+Cargo,70,70,"Cargo, all ships of this type"
+Cargo,71,71,"Cargo, hazardous category A"
+Cargo,72,72,"Cargo, hazardous category B"
+Cargo,73,73,"Cargo, hazardous category C"
+Cargo,74,74,"Cargo, hazardous category D"
+Cargo,75,75,"Cargo, reserved for future use"
+Cargo,76,76,"Cargo, reserved for future use"
+Cargo,77,77,"Cargo, reserved for future use"
+Cargo,78,78,"Cargo, reserved for future use"
+Cargo,79,79,"Cargo, no additional information"
+Tanker,80,80,"Tanker, all ships of this type"
+Tanker,81,81,"Tanker, hazardous category A"
+Tanker,82,82,"Tanker, hazardous category B"
+Tanker,83,83,"Tanker, hazardous category C"
+Tanker,84,84,"Tanker, hazardous category D"
+Tanker,85,85,"Tanker, reserved for future use"
+Tanker,86,86,"Tanker, reserved for future use"
+Tanker,87,87,"Tanker, reserved for future use"
+Tanker,88,88,"Tanker, reserved for future use"
+Tanker,89,89,"Tanker, no additional information"
+Other,90,90,"Other Type, all ships of this type"
+Other,91,91,"Other Type, hazardous category A"
+Other,92,92,"Other Type, hazardous category B"
+Other,93,93,"Other Type, hazardous category C"
+Other,94,94,"Other Type, hazardous category D"
+Other,95,95,"Other Type, reserved for future use"
+Other,96,96,"Other Type, reserved for future use"
+Other,97,97,"Other Type, reserved for future use"
+Other,98,98,"Other Type, reserved for future use"
+Other,99,99,"Other Type, no additional information"
+Other,100,100,Reserved for regional use
+Other,101,101,Reserved for regional use
+Other,102,102,Reserved for regional use
+Other,103,103,Reserved for regional use
+Other,104,104,Reserved for regional use
+Other,105,105,Reserved for regional use
+Other,106,106,Reserved for regional use
+Other,107,107,Reserved for regional use
+Other,108,108,Reserved for regional use
+Other,109,109,Reserved for regional use
+Other,110,110,Reserved for regional use
+Other,111,111,Reserved for regional use
+Other,112,112,Reserved for regional use
+Other,113,113,Reserved for regional use
+Other,114,114,Reserved for regional use
+Other,115,115,Reserved for regional use
+Other,116,116,Reserved for regional use
+Other,117,117,Reserved for regional use
+Other,118,118,Reserved for regional use
+Other,119,119,Reserved for regional use
+Other,120,120,Reserved for regional use
+Other,121,121,Reserved for regional use
+Other,122,122,Reserved for regional use
+Other,123,123,Reserved for regional use
+Other,124,124,Reserved for regional use
+Other,125,125,Reserved for regional use
+Other,126,126,Reserved for regional use
+Other,127,127,Reserved for regional use
+Other,128,128,Reserved for regional use
+Other,129,129,Reserved for regional use
+Other,130,130,Reserved for regional use
+Other,131,131,Reserved for regional use
+Other,132,132,Reserved for regional use
+Other,133,133,Reserved for regional use
+Other,134,134,Reserved for regional use
+Other,135,135,Reserved for regional use
+Other,136,136,Reserved for regional use
+Other,137,137,Reserved for regional use
+Other,138,138,Reserved for regional use
+Other,139,139,Reserved for regional use
+Other,140,140,Reserved for regional use
+Other,141,141,Reserved for regional use
+Other,142,142,Reserved for regional use
+Other,143,143,Reserved for regional use
+Other,144,144,Reserved for regional use
+Other,145,145,Reserved for regional use
+Other,146,146,Reserved for regional use
+Other,147,147,Reserved for regional use
+Other,148,148,Reserved for regional use
+Other,149,149,Reserved for regional use
+Other,150,150,Reserved for regional use
+Other,151,151,Reserved for regional use
+Other,152,152,Reserved for regional use
+Other,153,153,Reserved for regional use
+Other,154,154,Reserved for regional use
+Other,155,155,Reserved for regional use
+Other,156,156,Reserved for regional use
+Other,157,157,Reserved for regional use
+Other,158,158,Reserved for regional use
+Other,159,159,Reserved for regional use
+Other,160,160,Reserved for regional use
+Other,161,161,Reserved for regional use
+Other,162,162,Reserved for regional use
+Other,163,163,Reserved for regional use
+Other,164,164,Reserved for regional use
+Other,165,165,Reserved for regional use
+Other,166,166,Reserved for regional use
+Other,167,167,Reserved for regional use
+Other,168,168,Reserved for regional use
+Other,169,169,Reserved for regional use
+Other,170,170,Reserved for regional use
+Other,171,171,Reserved for regional use
+Other,172,172,Reserved for regional use
+Other,173,173,Reserved for regional use
+Other,174,174,Reserved for regional use
+Other,175,175,Reserved for regional use
+Other,176,176,Reserved for regional use
+Other,177,177,Reserved for regional use
+Other,178,178,Reserved for regional use
+Other,179,179,Reserved for regional use
+Other,180,180,Reserved for regional use
+Other,181,181,Reserved for regional use
+Other,182,182,Reserved for regional use
+Other,183,183,Reserved for regional use
+Other,184,184,Reserved for regional use
+Other,185,185,Reserved for regional use
+Other,186,186,Reserved for regional use
+Other,187,187,Reserved for regional use
+Other,188,188,Reserved for regional use
+Other,189,189,Reserved for regional use
+Other,190,190,Reserved for regional use
+Other,191,191,Reserved for regional use
+Other,192,192,Reserved for regional use
+Other,193,193,Reserved for regional use
+Other,194,194,Reserved for regional use
+Other,195,195,Reserved for regional use
+Other,196,196,Reserved for regional use
+Other,197,197,Reserved for regional use
+Other,198,198,Reserved for regional use
+Other,199,199,Reserved for regional use
+Other,200,200,Reserved for future use
+Other,201,201,Reserved for future use
+Other,202,202,Reserved for future use
+Other,203,203,Reserved for future use
+Other,204,204,Reserved for future use
+Other,205,205,Reserved for future use
+Other,206,206,Reserved for future use
+Other,207,207,Reserved for future use
+Other,208,208,Reserved for future use
+Other,209,209,Reserved for future use
+Other,210,210,Reserved for future use
+Other,211,211,Reserved for future use
+Other,212,212,Reserved for future use
+Other,213,213,Reserved for future use
+Other,214,214,Reserved for future use
+Other,215,215,Reserved for future use
+Other,216,216,Reserved for future use
+Other,217,217,Reserved for future use
+Other,218,218,Reserved for future use
+Other,219,219,Reserved for future use
+Other,220,220,Reserved for future use
+Other,221,221,Reserved for future use
+Other,222,222,Reserved for future use
+Other,223,223,Reserved for future use
+Other,224,224,Reserved for future use
+Other,225,225,Reserved for future use
+Other,226,226,Reserved for future use
+Other,227,227,Reserved for future use
+Other,228,228,Reserved for future use
+Other,229,229,Reserved for future use
+Other,230,230,Reserved for future use
+Other,231,231,Reserved for future use
+Other,232,232,Reserved for future use
+Other,233,233,Reserved for future use
+Other,234,234,Reserved for future use
+Other,235,235,Reserved for future use
+Other,236,236,Reserved for future use
+Other,237,237,Reserved for future use
+Other,238,238,Reserved for future use
+Other,239,239,Reserved for future use
+Other,240,240,Reserved for future use
+Other,241,241,Reserved for future use
+Other,242,242,Reserved for future use
+Other,243,243,Reserved for future use
+Other,244,244,Reserved for future use
+Other,245,245,Reserved for future use
+Other,246,246,Reserved for future use
+Other,247,247,Reserved for future use
+Other,248,248,Reserved for future use
+Other,249,249,Reserved for future use
+Other,250,250,Reserved for future use
+Other,251,251,Reserved for future use
+Other,252,252,Reserved for future use
+Other,253,253,Reserved for future use
+Other,254,254,Reserved for future use
+Other,255,255,Reserved for future use
+Other,256,256,Reserved for future use
+Other,257,257,Reserved for future use
+Other,258,258,Reserved for future use
+Other,259,259,Reserved for future use
+Other,260,260,Reserved for future use
+Other,261,261,No Designation
+Other,262,262,No Designation
+Other,263,263,No Designation
+Other,264,264,No Designation
+Other,265,265,No Designation
+Other,266,266,No Designation
+Other,267,267,No Designation
+Other,268,268,No Designation
+Other,269,269,No Designation
+Other,270,270,No Designation
+Other,271,271,No Designation
+Other,272,272,No Designation
+Other,273,273,No Designation
+Other,274,274,No Designation
+Other,275,275,No Designation
+Other,276,276,No Designation
+Other,277,277,No Designation
+Other,278,278,No Designation
+Other,279,279,No Designation
+Other,280,280,No Designation
+Other,281,281,No Designation
+Other,282,282,No Designation
+Other,283,283,No Designation
+Other,284,284,No Designation
+Other,285,285,No Designation
+Other,286,286,No Designation
+Other,287,287,No Designation
+Other,288,288,No Designation
+Other,289,289,No Designation
+Other,290,290,No Designation
+Other,291,291,No Designation
+Other,292,292,No Designation
+Other,293,293,No Designation
+Other,294,294,No Designation
+Other,295,295,No Designation
+Other,296,296,No Designation
+Other,297,297,No Designation
+Other,298,298,No Designation
+Other,299,299,No Designation
+Other,300,300,No Designation
+Other,301,301,No Designation
+Other,302,302,No Designation
+Other,303,303,No Designation
+Other,304,304,No Designation
+Other,305,305,No Designation
+Other,306,306,No Designation
+Other,307,307,No Designation
+Other,308,308,No Designation
+Other,309,309,No Designation
+Other,310,310,No Designation
+Other,311,311,No Designation
+Other,312,312,No Designation
+Other,313,313,No Designation
+Other,314,314,No Designation
+Other,315,315,No Designation
+Other,316,316,No Designation
+Other,317,317,No Designation
+Other,318,318,No Designation
+Other,319,319,No Designation
+Other,320,320,No Designation
+Other,321,321,No Designation
+Other,322,322,No Designation
+Other,323,323,No Designation
+Other,324,324,No Designation
+Other,325,325,No Designation
+Other,326,326,No Designation
+Other,327,327,No Designation
+Other,328,328,No Designation
+Other,329,329,No Designation
+Other,330,330,No Designation
+Other,331,331,No Designation
+Other,332,332,No Designation
+Other,333,333,No Designation
+Other,334,334,No Designation
+Other,335,335,No Designation
+Other,336,336,No Designation
+Other,337,337,No Designation
+Other,338,338,No Designation
+Other,339,339,No Designation
+Other,340,340,No Designation
+Other,341,341,No Designation
+Other,342,342,No Designation
+Other,343,343,No Designation
+Other,344,344,No Designation
+Other,345,345,No Designation
+Other,346,346,No Designation
+Other,347,347,No Designation
+Other,348,348,No Designation
+Other,349,349,No Designation
+Other,350,350,No Designation
+Other,351,351,No Designation
+Other,352,352,No Designation
+Other,353,353,No Designation
+Other,354,354,No Designation
+Other,355,355,No Designation
+Other,356,356,No Designation
+Other,357,357,No Designation
+Other,358,358,No Designation
+Other,359,359,No Designation
+Other,360,360,No Designation
+Other,361,361,No Designation
+Other,362,362,No Designation
+Other,363,363,No Designation
+Other,364,364,No Designation
+Other,365,365,No Designation
+Other,366,366,No Designation
+Other,367,367,No Designation
+Other,368,368,No Designation
+Other,369,369,No Designation
+Other,370,370,No Designation
+Other,371,371,No Designation
+Other,372,372,No Designation
+Other,373,373,No Designation
+Other,374,374,No Designation
+Other,375,375,No Designation
+Other,376,376,No Designation
+Other,377,377,No Designation
+Other,378,378,No Designation
+Other,379,379,No Designation
+Other,380,380,No Designation
+Other,381,381,No Designation
+Other,382,382,No Designation
+Other,383,383,No Designation
+Other,384,384,No Designation
+Other,385,385,No Designation
+Other,386,386,No Designation
+Other,387,387,No Designation
+Other,388,388,No Designation
+Other,389,389,No Designation
+Other,390,390,No Designation
+Other,391,391,No Designation
+Other,392,392,No Designation
+Other,393,393,No Designation
+Other,394,394,No Designation
+Other,395,395,No Designation
+Other,396,396,No Designation
+Other,397,397,No Designation
+Other,398,398,No Designation
+Other,399,399,No Designation
+Other,400,400,No Designation
+Other,401,401,No Designation
+Other,402,402,No Designation
+Other,403,403,No Designation
+Other,404,404,No Designation
+Other,405,405,No Designation
+Other,406,406,No Designation
+Other,407,407,No Designation
+Other,408,408,No Designation
+Other,409,409,No Designation
+Other,410,410,No Designation
+Other,411,411,No Designation
+Other,412,412,No Designation
+Other,413,413,No Designation
+Other,414,414,No Designation
+Other,415,415,No Designation
+Other,416,416,No Designation
+Other,417,417,No Designation
+Other,418,418,No Designation
+Other,419,419,No Designation
+Other,420,420,No Designation
+Other,421,421,No Designation
+Other,422,422,No Designation
+Other,423,423,No Designation
+Other,424,424,No Designation
+Other,425,425,No Designation
+Other,426,426,No Designation
+Other,427,427,No Designation
+Other,428,428,No Designation
+Other,429,429,No Designation
+Other,430,430,No Designation
+Other,431,431,No Designation
+Other,432,432,No Designation
+Other,433,433,No Designation
+Other,434,434,No Designation
+Other,435,435,No Designation
+Other,436,436,No Designation
+Other,437,437,No Designation
+Other,438,438,No Designation
+Other,439,439,No Designation
+Other,440,440,No Designation
+Other,441,441,No Designation
+Other,442,442,No Designation
+Other,443,443,No Designation
+Other,444,444,No Designation
+Other,445,445,No Designation
+Other,446,446,No Designation
+Other,447,447,No Designation
+Other,448,448,No Designation
+Other,449,449,No Designation
+Other,450,450,No Designation
+Other,451,451,No Designation
+Other,452,452,No Designation
+Other,453,453,No Designation
+Other,454,454,No Designation
+Other,455,455,No Designation
+Other,456,456,No Designation
+Other,457,457,No Designation
+Other,458,458,No Designation
+Other,459,459,No Designation
+Other,460,460,No Designation
+Other,461,461,No Designation
+Other,462,462,No Designation
+Other,463,463,No Designation
+Other,464,464,No Designation
+Other,465,465,No Designation
+Other,466,466,No Designation
+Other,467,467,No Designation
+Other,468,468,No Designation
+Other,469,469,No Designation
+Other,470,470,No Designation
+Other,471,471,No Designation
+Other,472,472,No Designation
+Other,473,473,No Designation
+Other,474,474,No Designation
+Other,475,475,No Designation
+Other,476,476,No Designation
+Other,477,477,No Designation
+Other,478,478,No Designation
+Other,479,479,No Designation
+Other,480,480,No Designation
+Other,481,481,No Designation
+Other,482,482,No Designation
+Other,483,483,No Designation
+Other,484,484,No Designation
+Other,485,485,No Designation
+Other,486,486,No Designation
+Other,487,487,No Designation
+Other,488,488,No Designation
+Other,489,489,No Designation
+Other,490,490,No Designation
+Other,491,491,No Designation
+Other,492,492,No Designation
+Other,493,493,No Designation
+Other,494,494,No Designation
+Other,495,495,No Designation
+Other,496,496,No Designation
+Other,497,497,No Designation
+Other,498,498,No Designation
+Other,499,499,No Designation
+Other,500,500,No Designation
+Other,501,501,No Designation
+Other,502,502,No Designation
+Other,503,503,No Designation
+Other,504,504,No Designation
+Other,505,505,No Designation
+Other,506,506,No Designation
+Other,507,507,No Designation
+Other,508,508,No Designation
+Other,509,509,No Designation
+Other,510,510,No Designation
+Other,511,511,No Designation
+Other,512,512,No Designation
+Other,513,513,No Designation
+Other,514,514,No Designation
+Other,515,515,No Designation
+Other,516,516,No Designation
+Other,517,517,No Designation
+Other,518,518,No Designation
+Other,519,519,No Designation
+Other,520,520,No Designation
+Other,521,521,No Designation
+Other,522,522,No Designation
+Other,523,523,No Designation
+Other,524,524,No Designation
+Other,525,525,No Designation
+Other,526,526,No Designation
+Other,527,527,No Designation
+Other,528,528,No Designation
+Other,529,529,No Designation
+Other,530,530,No Designation
+Other,531,531,No Designation
+Other,532,532,No Designation
+Other,533,533,No Designation
+Other,534,534,No Designation
+Other,535,535,No Designation
+Other,536,536,No Designation
+Other,537,537,No Designation
+Other,538,538,No Designation
+Other,539,539,No Designation
+Other,540,540,No Designation
+Other,541,541,No Designation
+Other,542,542,No Designation
+Other,543,543,No Designation
+Other,544,544,No Designation
+Other,545,545,No Designation
+Other,546,546,No Designation
+Other,547,547,No Designation
+Other,548,548,No Designation
+Other,549,549,No Designation
+Other,550,550,No Designation
+Other,551,551,No Designation
+Other,552,552,No Designation
+Other,553,553,No Designation
+Other,554,554,No Designation
+Other,555,555,No Designation
+Other,556,556,No Designation
+Other,557,557,No Designation
+Other,558,558,No Designation
+Other,559,559,No Designation
+Other,560,560,No Designation
+Other,561,561,No Designation
+Other,562,562,No Designation
+Other,563,563,No Designation
+Other,564,564,No Designation
+Other,565,565,No Designation
+Other,566,566,No Designation
+Other,567,567,No Designation
+Other,568,568,No Designation
+Other,569,569,No Designation
+Other,570,570,No Designation
+Other,571,571,No Designation
+Other,572,572,No Designation
+Other,573,573,No Designation
+Other,574,574,No Designation
+Other,575,575,No Designation
+Other,576,576,No Designation
+Other,577,577,No Designation
+Other,578,578,No Designation
+Other,579,579,No Designation
+Other,580,580,No Designation
+Other,581,581,No Designation
+Other,582,582,No Designation
+Other,583,583,No Designation
+Other,584,584,No Designation
+Other,585,585,No Designation
+Other,586,586,No Designation
+Other,587,587,No Designation
+Other,588,588,No Designation
+Other,589,589,No Designation
+Other,590,590,No Designation
+Other,591,591,No Designation
+Other,592,592,No Designation
+Other,593,593,No Designation
+Other,594,594,No Designation
+Other,595,595,No Designation
+Other,596,596,No Designation
+Other,597,597,No Designation
+Other,598,598,No Designation
+Other,599,599,No Designation
+Other,600,600,No Designation
+Other,601,601,No Designation
+Other,602,602,No Designation
+Other,603,603,No Designation
+Other,604,604,No Designation
+Other,605,605,No Designation
+Other,606,606,No Designation
+Other,607,607,No Designation
+Other,608,608,No Designation
+Other,609,609,No Designation
+Other,610,610,No Designation
+Other,611,611,No Designation
+Other,612,612,No Designation
+Other,613,613,No Designation
+Other,614,614,No Designation
+Other,615,615,No Designation
+Other,616,616,No Designation
+Other,617,617,No Designation
+Other,618,618,No Designation
+Other,619,619,No Designation
+Other,620,620,No Designation
+Other,621,621,No Designation
+Other,622,622,No Designation
+Other,623,623,No Designation
+Other,624,624,No Designation
+Other,625,625,No Designation
+Other,626,626,No Designation
+Other,627,627,No Designation
+Other,628,628,No Designation
+Other,629,629,No Designation
+Other,630,630,No Designation
+Other,631,631,No Designation
+Other,632,632,No Designation
+Other,633,633,No Designation
+Other,634,634,No Designation
+Other,635,635,No Designation
+Other,636,636,No Designation
+Other,637,637,No Designation
+Other,638,638,No Designation
+Other,639,639,No Designation
+Other,640,640,No Designation
+Other,641,641,No Designation
+Other,642,642,No Designation
+Other,643,643,No Designation
+Other,644,644,No Designation
+Other,645,645,No Designation
+Other,646,646,No Designation
+Other,647,647,No Designation
+Other,648,648,No Designation
+Other,649,649,No Designation
+Other,650,650,No Designation
+Other,651,651,No Designation
+Other,652,652,No Designation
+Other,653,653,No Designation
+Other,654,654,No Designation
+Other,655,655,No Designation
+Other,656,656,No Designation
+Other,657,657,No Designation
+Other,658,658,No Designation
+Other,659,659,No Designation
+Other,660,660,No Designation
+Other,661,661,No Designation
+Other,662,662,No Designation
+Other,663,663,No Designation
+Other,664,664,No Designation
+Other,665,665,No Designation
+Other,666,666,No Designation
+Other,667,667,No Designation
+Other,668,668,No Designation
+Other,669,669,No Designation
+Other,670,670,No Designation
+Other,671,671,No Designation
+Other,672,672,No Designation
+Other,673,673,No Designation
+Other,674,674,No Designation
+Other,675,675,No Designation
+Other,676,676,No Designation
+Other,677,677,No Designation
+Other,678,678,No Designation
+Other,679,679,No Designation
+Other,680,680,No Designation
+Other,681,681,No Designation
+Other,682,682,No Designation
+Other,683,683,No Designation
+Other,684,684,No Designation
+Other,685,685,No Designation
+Other,686,686,No Designation
+Other,687,687,No Designation
+Other,688,688,No Designation
+Other,689,689,No Designation
+Other,690,690,No Designation
+Other,691,691,No Designation
+Other,692,692,No Designation
+Other,693,693,No Designation
+Other,694,694,No Designation
+Other,695,695,No Designation
+Other,696,696,No Designation
+Other,697,697,No Designation
+Other,698,698,No Designation
+Other,699,699,No Designation
+Other,700,700,No Designation
+Other,701,701,No Designation
+Other,702,702,No Designation
+Other,703,703,No Designation
+Other,704,704,No Designation
+Other,705,705,No Designation
+Other,706,706,No Designation
+Other,707,707,No Designation
+Other,708,708,No Designation
+Other,709,709,No Designation
+Other,710,710,No Designation
+Other,711,711,No Designation
+Other,712,712,No Designation
+Other,713,713,No Designation
+Other,714,714,No Designation
+Other,715,715,No Designation
+Other,716,716,No Designation
+Other,717,717,No Designation
+Other,718,718,No Designation
+Other,719,719,No Designation
+Other,720,720,No Designation
+Other,721,721,No Designation
+Other,722,722,No Designation
+Other,723,723,No Designation
+Other,724,724,No Designation
+Other,725,725,No Designation
+Other,726,726,No Designation
+Other,727,727,No Designation
+Other,728,728,No Designation
+Other,729,729,No Designation
+Other,730,730,No Designation
+Other,731,731,No Designation
+Other,732,732,No Designation
+Other,733,733,No Designation
+Other,734,734,No Designation
+Other,735,735,No Designation
+Other,736,736,No Designation
+Other,737,737,No Designation
+Other,738,738,No Designation
+Other,739,739,No Designation
+Other,740,740,No Designation
+Other,741,741,No Designation
+Other,742,742,No Designation
+Other,743,743,No Designation
+Other,744,744,No Designation
+Other,745,745,No Designation
+Other,746,746,No Designation
+Other,747,747,No Designation
+Other,748,748,No Designation
+Other,749,749,No Designation
+Other,750,750,No Designation
+Other,751,751,No Designation
+Other,752,752,No Designation
+Other,753,753,No Designation
+Other,754,754,No Designation
+Other,755,755,No Designation
+Other,756,756,No Designation
+Other,757,757,No Designation
+Other,758,758,No Designation
+Other,759,759,No Designation
+Other,760,760,No Designation
+Other,761,761,No Designation
+Other,762,762,No Designation
+Other,763,763,No Designation
+Other,764,764,No Designation
+Other,765,765,No Designation
+Other,766,766,No Designation
+Other,767,767,No Designation
+Other,768,768,No Designation
+Other,769,769,No Designation
+Other,770,770,No Designation
+Other,771,771,No Designation
+Other,772,772,No Designation
+Other,773,773,No Designation
+Other,774,774,No Designation
+Other,775,775,No Designation
+Other,776,776,No Designation
+Other,777,777,No Designation
+Other,778,778,No Designation
+Other,779,779,No Designation
+Other,780,780,No Designation
+Other,781,781,No Designation
+Other,782,782,No Designation
+Other,783,783,No Designation
+Other,784,784,No Designation
+Other,785,785,No Designation
+Other,786,786,No Designation
+Other,787,787,No Designation
+Other,788,788,No Designation
+Other,789,789,No Designation
+Other,790,790,No Designation
+Other,791,791,No Designation
+Other,792,792,No Designation
+Other,793,793,No Designation
+Other,794,794,No Designation
+Other,795,795,No Designation
+Other,796,796,No Designation
+Other,797,797,No Designation
+Other,798,798,No Designation
+Other,799,799,No Designation
+Other,800,800,No Designation
+Other,801,801,No Designation
+Other,802,802,No Designation
+Other,803,803,No Designation
+Other,804,804,No Designation
+Other,805,805,No Designation
+Other,806,806,No Designation
+Other,807,807,No Designation
+Other,808,808,No Designation
+Other,809,809,No Designation
+Other,810,810,No Designation
+Other,811,811,No Designation
+Other,812,812,No Designation
+Other,813,813,No Designation
+Other,814,814,No Designation
+Other,815,815,No Designation
+Other,816,816,No Designation
+Other,817,817,No Designation
+Other,818,818,No Designation
+Other,819,819,No Designation
+Other,820,820,No Designation
+Other,821,821,No Designation
+Other,822,822,No Designation
+Other,823,823,No Designation
+Other,824,824,No Designation
+Other,825,825,No Designation
+Other,826,826,No Designation
+Other,827,827,No Designation
+Other,828,828,No Designation
+Other,829,829,No Designation
+Other,830,830,No Designation
+Other,831,831,No Designation
+Other,832,832,No Designation
+Other,833,833,No Designation
+Other,834,834,No Designation
+Other,835,835,No Designation
+Other,836,836,No Designation
+Other,837,837,No Designation
+Other,838,838,No Designation
+Other,839,839,No Designation
+Other,840,840,No Designation
+Other,841,841,No Designation
+Other,842,842,No Designation
+Other,843,843,No Designation
+Other,844,844,No Designation
+Other,845,845,No Designation
+Other,846,846,No Designation
+Other,847,847,No Designation
+Other,848,848,No Designation
+Other,849,849,No Designation
+Other,850,850,No Designation
+Other,851,851,No Designation
+Other,852,852,No Designation
+Other,853,853,No Designation
+Other,854,854,No Designation
+Other,855,855,No Designation
+Other,856,856,No Designation
+Other,857,857,No Designation
+Other,858,858,No Designation
+Other,859,859,No Designation
+Other,860,860,No Designation
+Other,861,861,No Designation
+Other,862,862,No Designation
+Other,863,863,No Designation
+Other,864,864,No Designation
+Other,865,865,No Designation
+Other,866,866,No Designation
+Other,867,867,No Designation
+Other,868,868,No Designation
+Other,869,869,No Designation
+Other,870,870,No Designation
+Other,871,871,No Designation
+Other,872,872,No Designation
+Other,873,873,No Designation
+Other,874,874,No Designation
+Other,875,875,No Designation
+Other,876,876,No Designation
+Other,877,877,No Designation
+Other,878,878,No Designation
+Other,879,879,No Designation
+Other,880,880,No Designation
+Other,881,881,No Designation
+Other,882,882,No Designation
+Other,883,883,No Designation
+Other,884,884,No Designation
+Other,885,885,No Designation
+Other,886,886,No Designation
+Other,887,887,No Designation
+Other,888,888,No Designation
+Other,889,889,No Designation
+Other,890,890,No Designation
+Other,891,891,No Designation
+Other,892,892,No Designation
+Other,893,893,No Designation
+Other,894,894,No Designation
+Other,895,895,No Designation
+Other,896,896,No Designation
+Other,897,897,No Designation
+Other,898,898,No Designation
+Other,899,899,No Designation
+Other,900,900,No Designation
+Other,901,901,No Designation
+Other,902,902,No Designation
+Other,903,903,No Designation
+Other,904,904,No Designation
+Other,905,905,No Designation
+Other,906,906,No Designation
+Other,907,907,No Designation
+Other,908,908,No Designation
+Other,909,909,No Designation
+Other,910,910,No Designation
+Other,911,911,No Designation
+Other,912,912,No Designation
+Other,913,913,No Designation
+Other,914,914,No Designation
+Other,915,915,No Designation
+Other,916,916,No Designation
+Other,917,917,No Designation
+Other,918,918,No Designation
+Other,919,919,No Designation
+Other,920,920,No Designation
+Other,921,921,No Designation
+Other,922,922,No Designation
+Other,923,923,No Designation
+Other,924,924,No Designation
+Other,925,925,No Designation
+Other,926,926,No Designation
+Other,927,927,No Designation
+Other,928,928,No Designation
+Other,929,929,No Designation
+Other,930,930,No Designation
+Other,931,931,No Designation
+Other,932,932,No Designation
+Other,933,933,No Designation
+Other,934,934,No Designation
+Other,935,935,No Designation
+Other,936,936,No Designation
+Other,937,937,No Designation
+Other,938,938,No Designation
+Other,939,939,No Designation
+Other,940,940,No Designation
+Other,941,941,No Designation
+Other,942,942,No Designation
+Other,943,943,No Designation
+Other,944,944,No Designation
+Other,945,945,No Designation
+Other,946,946,No Designation
+Other,947,947,No Designation
+Other,948,948,No Designation
+Other,949,949,No Designation
+Other,950,950,No Designation
+Other,951,951,No Designation
+Other,952,952,No Designation
+Other,953,953,No Designation
+Other,954,954,No Designation
+Other,955,955,No Designation
+Other,956,956,No Designation
+Other,957,957,No Designation
+Other,958,958,No Designation
+Other,959,959,No Designation
+Other,960,960,No Designation
+Other,961,961,No Designation
+Other,962,962,No Designation
+Other,963,963,No Designation
+Other,964,964,No Designation
+Other,965,965,No Designation
+Other,966,966,No Designation
+Other,967,967,No Designation
+Other,968,968,No Designation
+Other,969,969,No Designation
+Other,970,970,No Designation
+Other,971,971,No Designation
+Other,972,972,No Designation
+Other,973,973,No Designation
+Other,974,974,No Designation
+Other,975,975,No Designation
+Other,976,976,No Designation
+Other,977,977,No Designation
+Other,978,978,No Designation
+Other,979,979,No Designation
+Other,980,980,No Designation
+Other,981,981,No Designation
+Other,982,982,No Designation
+Other,983,983,No Designation
+Other,984,984,No Designation
+Other,985,985,No Designation
+Other,986,986,No Designation
+Other,987,987,No Designation
+Other,988,988,No Designation
+Other,989,989,No Designation
+Other,990,990,No Designation
+Other,991,991,No Designation
+Other,992,992,No Designation
+Other,993,993,No Designation
+Other,994,994,No Designation
+Other,995,995,No Designation
+Other,996,996,No Designation
+Other,997,997,No Designation
+Other,998,998,No Designation
+Other,999,999,No Designation
+Other,,,null
+Fishing,1001,,Commercial Fishing Vessel
+Fishing,1002,,Fish Processing Vessel
+Cargo,1003,,Freight Barge
+Cargo,1004,,Freight Ship
+Other,1005,,Industrial Vessel
+Other,1006,,Miscellaneous Vessel
+Other,1007,,Mobile Offshore Drilling Unit
+Other,1008,,Non-vessel
+Other,1009,,NON-VESSEL
+Other,1010,,Offshore Supply Vessel
+Other,1011,,Oil Recovery
+Passenger,1012,,Passenger (Inspected)
+Passenger,1013,,Passenger (Uninspected)
+Passenger,1014,,Passenger Barge (Inspected)
+Passenger,1015,,Passenger Barge (Uninspected)
+Cargo,1016,,Public Freight
+Tanker,1017,,Public Tankship/Barge
+Other,1018,,"Public Vessel, Unclassified"
+Pleasure Craft/Sailing,1019,,Recreational
+Other,1020,,Research Vessel
+Military,1021,,SAR Aircraft
+Other,1022,,School Ship
+Tug Tow,1023,,Tank Barge
+Tanker,1024,,Tank Ship
+Tug Tow,1025,,Towing Vessel

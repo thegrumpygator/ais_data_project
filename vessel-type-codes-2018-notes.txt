@@ -1,0 +1,17 @@
+The first column are the gross vessel groups. They are all text. Some contain
+spaces, and one contains a slash (/) character.
+
+The second column is the vessel type, a continuous integer starting at zero (0)
+and carrying through to 1025 with the exception that there is no one thousand (1000)
+in the list. 
+
+The third column is the "AIS Vessel Code" and is the same as the Vessel Type number
+through 999. From 999 on, the value is null.
+
+Row 1000 (or that row that would have been 1000) is essentially a null/other catch-all.
+
+The fourth column is the "AIS Ship & Cargo Classification" through 999, where it changes
+to "AVIS Vessel Service" which doesn't look any different in character to the AIS 
+Ship and Cargo Classification values. 
+
+But, this makes it essentially two tables split after row 999.
