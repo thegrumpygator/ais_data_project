@@ -2,10 +2,13 @@
 import pandas as pd
 import os
 
-filepath = "S:/fulls/Hackathon-2019/Data"
-filename = "2015_hackathon_v1.1.2.feather"
+filepath = "C:/Users/gator/Documents/==CNA/CNA_Hackathon_2019_Data"
+filename = "2015_hackathon_v1.1.2.hdf"
 
-df = pd.read_feather(os.path.join(filepath, filename))
+df = pd.read_hdf("C:/Users/gator/Documents/==CNA/CNA_Hackathon_2019_Data/2015_hackathon_v1.1.2.hdf", key="tracks")
+
+#df = pd.read_hdf5(os.path.join(filepath, filename))
+
 df = df.head(1000000).copy()
 
 from sklearn.ensemble import RandomForestClassifier
